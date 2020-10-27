@@ -8,6 +8,9 @@ public class SpringBootThymeleafCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootThymeleafCrudApplication.class, args);
+	
+	
+	
 	}
 
 }
